@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+}
+
+#info {
+  color: white;
+  display: block;
+  font-family: "Press Start 2P";
+  font-size: 5vh;
+  position: absolute;
+  text-align: center;
+  text-shadow: 2px 2px #1f1f1f;
+  top: 5vh;
+  width: 100%;
+  z-index: 100;
+}
+
+#links {
+  position: absolute;
+  bottom: 10px;
+  width: 100%;
+  text-align: center;
+  color: black;
+  font-family: Monospace;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+#links a {
+  color: black;
+  text-decoration: none;
+}
+
+#links a:hover {
+  color: black;
+}

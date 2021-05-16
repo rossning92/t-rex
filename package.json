@@ -1,0 +1,23 @@
+{
+  "name": "t-rex",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.3.1",
+    "webpack": "^5.24.4",
+    "webpack-cli": "^4.5.0",
+    "webpack-dev-server": "^3.11.2"
+  },
+  "dependencies": {
+    "@fontsource/press-start-2p": "^4.4.0",
+    "css-loader": "^5.2.4",
+    "file-loader": "^6.2.0",
+    "style-loader": "^2.0.0",
+    "three": "^0.126.1"
+  },
+  "scripts": {
+    "start": "webpack serve --mode development --devtool inline-source-map --hot",
+    "build": "webpack"
+  }
+}
