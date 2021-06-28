@@ -1,6 +1,7 @@
 {
   "name": "t-rex",
   "version": "1.0.0",
+  "author": "Ross Ning <rossning92@gmail.com>",
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
