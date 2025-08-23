@@ -1,5 +1,7 @@
 # T-Rex Game in 3D
 
+**Name:** Zahra
+**Certification:** Front-End Development Capstone Projects
 A Chrome T-rex game remake using javascript and threejs.
 ![](images/screencap.gif)
 
